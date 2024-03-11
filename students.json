@@ -1,0 +1,28 @@
+[
+    {
+      "_id": 1,
+      "name": "John",
+      "age": 22,
+      "city": "Madrid",
+      "sports": [
+        "soccer",
+        "handball"
+      ]
+    },
+    {
+      "_id": 2,
+      "name": "Steve",
+      "age": 24,
+      "city": "Segovia"
+    },
+    {
+      "_id": 3,
+      "name": "Marta",
+      "age": 21,
+      "city": "Madrid",
+      "sports": [
+        "handball",
+        "basketball"
+      ]
+    }
+]
